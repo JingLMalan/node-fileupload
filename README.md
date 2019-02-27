@@ -1,5 +1,5 @@
 # 文件上传模块
-Demo 
+查看Demo进行如下步骤的操作:
 
  ## docker pull jingmalan/nodefile
 
