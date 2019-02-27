@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": {
+    "name": "jing.l.malan",
+    "email": "jing.l.malan@gmail.com",
+    "url": "https://github.com/JingMalan"
+  },
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
+}
