@@ -1,4 +1,7 @@
 # 文件上传模块
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/JingLMalan/node-fileupload.svg)](https://greenkeeper.io/)
+
 查看Demo进行如下步骤的操作:
 
  ## docker pull jingmalan/nodefile
